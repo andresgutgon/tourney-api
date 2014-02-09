@@ -1,4 +1,4 @@
-class UsersController < ApplicationController
+class UsersController < BaseController
   before_filter :ensure_authenticated_user, only: [:index]
 
   # Returns list of users. This requires authorization
@@ -24,5 +24,5 @@ class UsersController < ApplicationController
   # Strong Parameters (Rails 4)
   def user_params
     params.require(:user).permit(:name, :username, :email, :password, :password_confirmation)
-  end
+  end 
 end
