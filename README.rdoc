@@ -3,3 +3,5 @@
 Following this tutorials:
 
 - [authentication-with-emberjs-part-1](http://coderberry.me/blog/2013/07/08/authentication-with-emberjs-part-1/)
+- [authentication-with-emberjs-part-2](http://coderberry.me/blog/2013/07/08/authentication-with-emberjs-part-2/)
+- [authentication-with-emberjs-part-3](http://coderberry.me/blog/2013/07/08/authentication-with-emberjs-part-3/)
